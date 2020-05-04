@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        print("My name is chandres patel")
+        print("My name is chandres patel testing data testing data testing data testing data")
         // Override point for customization after application launch.
         return true
     }
